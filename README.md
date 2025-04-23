@@ -15,7 +15,7 @@
 
 <p style="display: flex; align-items:center">
     <img src="assets/demo/sliders.gif" width="400" alt="Demo">
-    <img src="assets/demo/sliders.gif" width="400" alt="Demo">
+    <img src="assets/demo/drawing.gif" width="400" alt="Demo">
 </p>
 
 
