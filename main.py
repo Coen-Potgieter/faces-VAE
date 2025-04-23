@@ -343,10 +343,10 @@ def main():
     # Generate faces with different input data
     # generate_faces(auto_path, X_dev[:500])
     # generate_faces(auto_path, X_train[:500])
-    # generate_faces(auto_path, X_specific)
+    generate_faces(auto_path, X_specific)
 
     # ---------------- Generate Faces w/ Drawing ---------------- #
-    draw_faces(auto_path)
+    # draw_faces(auto_path)
 
 
 if __name__ == "__main__":
