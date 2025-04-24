@@ -119,18 +119,18 @@ def make_small(npy_path, num_train, num_dev):
 
 def main():
 
-    print(num_imgs("Assets/Data/Original/F"))
-    print(num_imgs("Assets/Data/Original/M"))
+    print(num_imgs("assets/data/original/F"))
+    print(num_imgs("assets/data/original/M"))
 
-    print(unique_dims("Assets/Data/Original/F"))
-    print(unique_dims("Assets/Data/Original/M"))
+    print(unique_dims("assets/data/original/F"))
+    print(unique_dims("assets/data/original/M"))
 
-    # img_from_file("Assets/Data/Original/F", -231)
-    # img_from_file("Assets/Data/Original/M", -1)
+    # img_from_file("assets/data/original/F", -231)
+    # img_from_file("assets/data/original/M", -1)
 
-    # to_np("Assets/Data/Original", "Assets/Data/Numpy")
+    # to_np("assets/data/original", "assets/data/numpy")
 
-    # make_small("Assets/Data/Numpy", 1000, 500)
+    # make_small("assets/data/numpy", 1000, 500)
 
 
 if __name__ == "__main__":
